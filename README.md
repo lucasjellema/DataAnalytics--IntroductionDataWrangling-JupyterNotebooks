@@ -1,2 +1,3 @@
-# DataAnalytics--IntroductionDataWrangling-JupyterNotebooks
-Resources for Conclusion SIG Data Analytics - Inleiding Data Wrangling (met Python &amp; Jupyter Notebooks)
+# Data Analytics- Introduction Data Wrangling JupyterNotebooks
+Resources for Conclusion SIG Data Analytics - Inleiding Data Wrangling (with Python &amp; Jupyter Notebooks)
+
