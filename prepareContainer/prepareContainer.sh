@@ -26,3 +26,10 @@ cp katacoda-scenarios/jupyter-notebook/assets/introPythonForDataAnalysis.ipynb ~
 # adding notebook to play with ipywidgets
 cd ~/work
 rm -Rf temp 
+
+
+For example: open 
+
+and run pythonForDataAnalysis.ipynb in the work folder. Or open and run Example_word_clouds.ipynb. Or open folder learn-pandas/lessons and start with Python_101.ipynb or Cookbook - Select.ipynb. 
+
+The folder work/Data-Analysis contains many notebooks created by Will Koehrsen, who writes many great articles about Data Science and uses Jupyter Notebooks frequently (see his GitHub Repo: https://github.com/WillKoehrsen/Data-Analysis ). 
