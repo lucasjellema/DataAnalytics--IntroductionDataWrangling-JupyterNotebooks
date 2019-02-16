@@ -27,6 +27,8 @@ cp katacoda-scenarios/jupyter-notebook/assets/introPythonForDataAnalysis.ipynb ~
 git clone https://github.com/lucasjellema/DataAnalytics--IntroductionDataWrangling-JupyterNotebooks
 # then move folder CaseOfOracleOpenWorld2018 under ~/work
 mv DataAnalytics--IntroductionDataWrangling-JupyterNotebooks/CaseOfOracleOpenWorld2018 ~/work
+# and move folder HelloWorldNotebook under ~/work
+mv DataAnalytics--IntroductionDataWrangling-JupyterNotebooks/HelloWorldNotebook ~/work
 
 cd ~/work
 rm -Rf temp 
