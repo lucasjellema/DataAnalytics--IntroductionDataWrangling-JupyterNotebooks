@@ -29,6 +29,8 @@ git clone https://github.com/lucasjellema/DataAnalytics--IntroductionDataWrangli
 mv DataAnalytics--IntroductionDataWrangling-JupyterNotebooks/CaseOfOracleOpenWorld2018 ~/work
 # and move folder HelloWorldNotebook under ~/work
 mv DataAnalytics--IntroductionDataWrangling-JupyterNotebooks/HelloWorldNotebook ~/work
+# and move folder Titanic under ~/work
+mv DataAnalytics--IntroductionDataWrangling-JupyterNotebooks/Titanic ~/work
 
 cd ~/work
 rm -Rf temp 
