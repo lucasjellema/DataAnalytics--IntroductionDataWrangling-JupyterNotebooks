@@ -33,4 +33,5 @@ mv DataAnalytics--IntroductionDataWrangling-JupyterNotebooks/HelloWorldNotebook 
 mv DataAnalytics--IntroductionDataWrangling-JupyterNotebooks/Titanic ~/work
 
 cd ~/work
+#finally remove the temp folder to save some space and clean up
 rm -Rf temp 

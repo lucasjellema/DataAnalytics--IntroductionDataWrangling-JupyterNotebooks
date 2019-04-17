@@ -7,7 +7,5 @@ docker exec -it jupyter bash -c './prepareContainer.sh'
 # # restart the docker container
 docker restart jupyter
 echo 'restarted Jupyter container'
-# perhaps clone a GitHub repo inside the Jupyter container
-#docker exec -it jupyter git clone https://github.com/lucasjellema/DataAnalytics--IntroductionDataWrangling-JupyterNotebooks
-# and more stuff?
+# show logs to learn whether the container started successfully. 
 docker logs jupyter
